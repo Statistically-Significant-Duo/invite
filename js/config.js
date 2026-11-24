@@ -33,13 +33,13 @@
       }),
       Object.freeze({
         id: "haldi", day: "25", date: "2027-01-25", name: "Haldi & happy hearts",
-        shortName: "Haldi", tradition: "MANGANA · GAI HALUD",
+        shortName: "Haldi", tradition: "MANGANA · GAYE HOLUD",
         description: "Golden turmeric, marigold moments, and a happy kind of mess. Come ready to laugh with us.",
         time: "", venue: ""
       }),
       Object.freeze({
         id: "wedding", day: "26", date: "2027-01-26", name: "Our forever, together",
-        shortName: "Wedding", tradition: "SUBHA BIBAHA · BIYE",
+        shortName: "Wedding", tradition: "SUBHA BIBAHA",
         description: "Sacred vows, two beautiful traditions, and a celebration of love, food, and family.",
         time: "weddingDate", venue: ""
       }),
