@@ -1,0 +1,13 @@
+{
+  "name": "pabitra-asmita-wedding",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A Pattachitra wedding invitation with a liquid glass design and RSVP collection.",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "start": "node dev-server.mjs",
+    "dev": "node dev-server.mjs",
+    "test": "node --test tests/rsvp.test.mjs",
+    "export-rsvps": "node scripts/export-rsvps.mjs"
+  }
+}

@@ -1,100 +1,60 @@
-# Photography direction & image prompts
+﻿# Artwork and photography direction
 
-For **Pabitra Sahoo & Asmita De**. The website pairs liquid glass with maroon, red, warm ivory, yellow, and antique gold. Use richly detailed Pattachitra artwork or warm traditional imagery so the palette feels festive and rooted in heritage.
+For **Pabitra & Asmita**. The invitation uses a consistent Pattachitra-inspired illustration style with **maroon `#6f1d1d`, red `#8c2d2d`, ivory `#fbf1dc`, gold `#c69232`, and warm rose `#c96b5b`**. Use the same palette, line weight, paper texture, and decorative density across new images.
 
-## A palette that works together
+## Current artwork
 
-| Color | Hex | In photographs |
+| Placement | Responsive files | Source artwork retained in `assets/` |
 | --- | --- | --- |
-| Warm ivory | `#fbf1dc` | Silk, stone, flowers, linen |
-| Maroon | `#6f1d1d` | Deep borders, buttons, and traditional accents |
-| Red | `#8c2d2d` | Floral details and festive clothing |
-| Antique gold | `#c69232` | Late sunlight, brass, and subtle jewelry |
-| Warm rose | `#c96b5b` | Petals and small fabric accents |
+| Hero | `hero-960.webp`, `hero-1376.webp` | `pattachitra_wedding_hero.jpg` |
+| Monogram | `monogram-128.webp`, `monogram-256.webp` | `pa-monogram.png` |
+| Couple | `couple-480.webp`, `couple-800.webp` | `couple-illustration.png` |
+| Bride | `bride-320.webp`, `bride-640.webp` | `bride-illustration.png` |
+| Groom | `groom-320.webp`, `groom-640.webp` | `groom-illustration.png` |
+| Blessings card and gallery | `blessings-640.webp`, `blessings-1000.webp` | `Traditional Pattachitra Wedding Ring Ceremony.png` |
+| Haldi card and gallery | `haldi-640.webp`, `haldi-1000.webp` | `Pattachitra Haldi Ceremony Celebration-2.png` |
+| Wedding card and gallery | `wedding-640.webp`, `wedding-1200.webp` | `Odia Pattachitra Wedding Ceremony.png` |
 
-Use natural skin tones, restrained saturation, warm whites, and soft shadows. Avoid heavy orange filters, electric greens, and very bright reds across every image. Traditional red and yellow clothing can remain authentic; balance it with a quieter background.
+The hero source is 1376 × 768. Its responsive versions retain that native resolution rather than enlarging it. Ceremony illustrations are landscape, while the portraits are vertical. No new images need to be generated to use this website.
 
-## Two photo directions
+## Six prompts for matching artwork
 
-**Botanical editorial — recommended:** a real garden, ivory florals, sage foliage, light fabrics, soft morning or late-afternoon sun, and candid expressions. Keep the hero wide and serene; use closer human moments lower down the page.
+### 1. A spacious wedding hero
 
-**Candlelit heritage:** warm stone, traditional textiles, brass lamps, restrained flowers, and candlelit tables. Keep black levels gently lifted so these images sit naturally beside the light website. Photograph real venue details when the location is confirmed.
+> An original Pattachitra-inspired illustration celebrating an Odia and Bengali wedding, with a graceful mandap, delicate marigold garlands, lotus motifs, and symmetrical peacocks at the outer edges. Hand-painted fine dark outlines, warm ivory paper, deep maroon, restrained vermilion, and antique gold. Keep the central third calm and visually simple for large website lettering. Wide landscape composition, 16:9, balanced and festive, flat painted perspective, intricate edge details without crowding the centre. No text, names, lettering, logos, or watermarks. A decorative imagined celebration, not a record of a confirmed venue.
 
-## Six ready-to-use prompts
+### 2. The couple portrait
 
-The prompts below describe a visual direction. Garden, table, and ceremony images can be atmospheric editorial illustrations; they should not be presented as photographs of the couple's actual venue or events. For personal images, attach reference photographs of both people and request identity preservation. An image model may still alter a face or garment; review carefully. Real photographs are the best choice for an authentic wedding record.
+> Using the attached approved couple artwork as the reference, create a matching Pattachitra-inspired portrait of Pabitra and Asmita together. Preserve their recognisable faces, skin tones, garments, and jewellery from the reference. Gentle expressions, natural hands, elegant traditional attire in maroon and ivory, fine dark outlines, antique-gold ornaments, subtly textured ivory background. Show both heads fully with generous breathing room above them and enough space around the figures for an arched crop. Portrait 2:3. No lettering, logos, watermarks, or added ceremonial symbols.
 
-### 1. The garden hero
+### 3. Matching individual portraits
 
-**Save as:** `hero-garden.jpg` · **Aspect:** 16:9 · **Suggested size:** 2560 × 1440
+> Create one individual portrait matching the attached approved couple illustration, depicting [Pabitra / Asmita] alone in the same Pattachitra-inspired style. Preserve the referenced person's face, skin tone, hairstyle, clothing, and cultural details. Fine painted outlines, maroon and ivory attire, restrained antique gold, warm ivory paper, graceful relaxed pose. Full head and complete hands visible, centred vertical composition with ample empty margins for an arched frame. Portrait 2:3. No text, names, logos, lettering, or watermarks. Use the same framing and lighting treatment for both portrait variants.
 
-> Create a cinematic editorial photograph of an intimate botanical Indian wedding garden at golden hour. A delicate arbour of ivory roses and white seasonal flowers, sage-green foliage, warm champagne sunlight, and a few dusty-rose petals. Frame the garden with flowers at the left and right edges, leaving a broad, softly lit, visually quiet area across the center and upper middle for website typography. Refined and romantic, believable materials, gentle atmospheric depth, subtle film grain, true-to-life colors, soft shadows, understated luxury. Landscape composition, 16:9. No people, no text, no names, no lettering, no logos, no watermarks. This is an imagined editorial setting, not a depiction of a verified venue.
+### 4. Blessings and beginnings
 
-**Placement:** full-width opening background. Keep important flowers away from the center; mobile screens crop the sides.
+> A Pattachitra-inspired illustration of an intimate family blessing and ring ceremony, with a bride and groom seated facing each other, elders offering warm blessings, and restrained floral details. Match the attached approved wedding artwork's faces, attire, fine dark outlines, paper texture, and maroon, ivory, antique-gold palette. Balanced landscape composition, 3:2, keep faces and hands comfortably inside the central safe area, leave space around the scene for responsive cropping. No invented readable ritual text, no lettering, logos, or watermarks. An illustrative scene inspired by tradition.
 
-### 2. An authentic couple portrait
+### 5. Golden Haldi joy
 
-**Save as:** `story-couple.jpg` · **Aspect:** 4:5 · **Suggested size:** 1600 × 2000
+> A joyful Pattachitra-inspired Haldi scene in the same painted style as the attached wedding artwork. Preserve the referenced couple's features and use natural turmeric yellow and marigolds alongside maroon borders, warm ivory, and antique gold. Include a small brass bowl, family warmth, and gentle smiles, with clear fine outlines and a consistent flat painted perspective. Landscape 3:2, all important faces and gestures well inside the frame, uncluttered central composition. No text, invented religious symbols, lettering, logos, or watermarks. An illustrative celebration, not documentary photography.
 
-> Using the attached reference photographs of Pabitra Sahoo and Asmita De, create a natural editorial couple portrait that preserves each person's facial identity, age, skin tone, and distinctive features. They stand close together in a softly lit garden, sharing a relaxed smile rather than posing stiffly. Use the clothing and cultural details shown in the references; do not invent ceremonial ornaments. Soft sage foliage behind them, warm ivory highlights, champagne afternoon light, a restrained dusty-rose floral detail. Realistic skin texture, anatomically natural hands, gentle lens depth, elegant 85 mm portrait photography. Keep both faces fully visible and leave breathing room above their heads. Portrait composition, 4:5. No text, logos, watermarks, or artificial beauty retouching.
+### 6. The wedding promise
 
-**Placement:** the story section. Prefer a real portrait here if available. The existing `PabitraAsmita.png` can serve as a reference or initial image, subject to its actual content.
+> An original Pattachitra-inspired wedding illustration depicting the referenced bride and groom together beneath a simply decorated mandap, with warm family presence and a sacred fire as shown in the approved reference. Preserve the approved attire and cultural details without inventing extra ritual objects. Fine dark painted outlines, subtly textured ivory paper, deep maroon, restrained red, antique gold, lotus and floral borders matching the reference artwork. Landscape 3:2, keep faces, hands, and the main ritual clearly visible within the central safe area. No text, names, lettering, logos, or watermarks. An imagined illustration celebrating the couple's traditions.
 
-### 3. The little moments: hands
+## Replacing or adding images
 
-**Save as:** `memory-hands.jpg` · **Aspect:** 4:5 · **Suggested size:** 1200 × 1500
+1. Keep your original PNG/JPEG artwork. Generate smaller WebP versions at the widths in the table, using approximately 80–85% quality, and compare painted lines and faces at normal viewing size.
+2. Replace every responsive variant used by the image's `srcset`, not just its `src`. Update `width` and `height` in `index.html` if the image proportions change.
+3. For gallery changes, update the enclosing button's `data-lightbox`, `data-caption`, and accessible label as well as the image's `src`, `srcset`, `sizes`, and `alt` description.
+4. Check the hero on a narrow phone and a wide screen. Keep faces clear of text and preserve the top of each portrait's head. Use `object-position` to fine-tune the crop.
+5. For authentic memories, use your actual photographs once available. Request one wide couple/venue shot with quiet space for text, vertical portraits, and close-ups of hands, textiles, flowers, and brass details. Choose a consistent warm-neutral edit and keep captions accurate.
 
-> Create an intimate editorial close-up of an Indian couple gently holding hands, with natural skin texture, accurate anatomy, and delicate traditional jewelry. Soft ivory fabric and a subtle sage background, a little champagne sunlight across the hands, quiet dusty-rose detail at the edge. Candid, tender, believable, understated wedding photography with a shallow depth of field. Preserve clothing, jewelry, and hand details from attached references if supplied. Portrait 4:5, with comfortable space around the hands and no distracting objects. No faces, no text, logos, lettering, or watermarks. Treat this as an editorial illustration unless based on an actual photograph.
+To regenerate variants with the optional optimisation script, install Sharp in a separate tools folder and run:
 
-**Placement:** gallery or a small story detail. Choose a real close-up if you want this to represent the couple.
+```powershell
+node scripts/optimize-images.mjs --sharp-module C:/absolute/path/to/node_modules/sharp
+```
 
-### 4. The flowers
-
-**Save as:** `memory-flowers.jpg` · **Aspect:** 4:5 · **Suggested size:** 1200 × 1500
-
-> An editorial wedding detail photograph of an organically arranged bouquet of ivory roses, white seasonal blooms, soft sage leaves, and a few muted dusty-rose petals, resting on warm ivory linen. A slim champagne-colored silk ribbon curls naturally beside it. Soft window light, realistic petal textures, a restrained luxury aesthetic, subtle shadows, shallow depth of field, no harsh highlights, no oversaturation. Intimate portrait crop, 4:5. No hands, people, text, logos, lettering, or watermarks.
-
-**Placement:** gallery. A strong option when personal photos are not ready yet.
-
-### 5. A candlelit evening
-
-**Save as:** `memory-table.jpg` · **Aspect:** 3:2 · **Suggested size:** 1800 × 1200
-
-> A cinematic editorial photograph of an intimate wedding dinner table at blue hour in an imagined garden courtyard. Warm ivory linen, clear glassware, slender brass candleholders, small ivory floral arrangements, sage foliage, and understated dusty-rose accents. Warm champagne candlelight reflects softly in the glass, while the background falls into gentle garden bokeh. Beautifully composed, realistic materials, calm and inviting, elegant rather than extravagant. No readable place cards, no people, no specific recognizable landmark. Landscape 3:2. No text, logos, lettering, or watermarks. This is atmosphere inspiration, not a photograph of a confirmed wedding venue.
-
-**Placement:** gallery or travel section. Use a real venue photo once the venue is confirmed.
-
-### 6. The Haldi mood
-
-**Save as:** `memory-haldi.jpg` · **Aspect:** 4:5 · **Suggested size:** 1200 × 1500
-
-> Create a tasteful editorial detail photograph inspired by an Odia and Bengali Haldi celebration: a small brass bowl of turmeric paste, fresh marigold petals, an ivory cloth, soft sage foliage, and a little water catching warm morning light. Preserve the natural golden-yellow color of turmeric and marigolds, balanced with quiet ivory and green surroundings. Documentary-inspired composition, tactile materials, natural shadows, subtle film grain, intimate and joyful, no excessive decoration. Portrait 4:5. No people, no invented religious symbols, no text, logos, lettering, or watermarks. This is ceremony mood inspiration, not documentation of an event that has happened.
-
-**Placement:** gallery or a ceremony detail image.
-
-## Add or replace images
-
-The site currently uses these files:
-
-| Current file | Where it appears | How to replace it |
-| --- | --- | --- |
-| `assets/pattachitra_wedding_hero.jpg` | Hero and first moodboard image | Replace with another red-and-gold Pattachitra or traditional wedding artwork. |
-| `assets/couple-illustration.png` | Arched story portrait | To use `story-couple.jpg`, change this image's `src` in `index.html` to `assets/story-couple.jpg` and describe the new photograph in its `alt` text. |
-| `assets/memory-flowers.jpg` | Second moodboard image | Replace the file directly and update its image description. |
-| `assets/memory-table.jpg` | Third moodboard image | Replace the file directly and update its image description. |
-
-`memory-hands.jpg` and `memory-haldi.jpg` are optional ideas. They do not have existing image slots. To use either, replace a moodboard image's `src` **and** its button's `data-lightbox` path, then update its caption and `alt` text. The same applies when using a different filename or changing from JPEG to WebP. Keep the file extension consistent with the actual image format.
-
-1. Export to **JPEG** at about 80–85% quality or **WebP** at about 75–85% quality. Start around 250–500 KB for the hero and 100–250 KB per gallery photo; judge quality visually, rather than forcing a file-size target.
-2. Put your final files in `website3/assets/`. Use the filenames above for easy identification. If you export WebP, use `.webp` in both the filename and its reference.
-3. Update the relevant image paths in `index.html`, including lightbox paths, using the table above. The hero is an HTML image, not a CSS background. Copying a differently named image into the folder alone will not change the site.
-4. Update each image's `alt` description to match the actual picture. Use honest captions such as “Our garden inspiration” for editorial imagery and reserve personal memory captions for your own photographs.
-5. Check the result on both a phone and a wide desktop. Adjust `object-position` or `background-position` if faces or flowers are cropped. Keep the couple's faces clear of overlapping text.
-
-## A quick brief for a photographer
-
-- Request one wide horizontal photograph with an uncluttered center for the hero, plus a vertical couple portrait and a few close details.
-- Photograph shortly after sunrise or before sunset for flattering light. Avoid mixed lighting and direct midday sun.
-- Capture natural interaction, complete hands, and unclipped faces. Leave extra space around each subject for responsive crops.
-- Ask for a consistent warm-neutral edit and full-resolution originals. Keep genuine attire and ritual colors rather than recoloring everything to fit the palette.
-- Photograph the confirmed venue and actual ceremonies when available; replace atmosphere images as your own collection grows.
+The site itself has no image-encoding dependency. Original stock garden, bouquet, and table photographs are retained as unused alternatives; their attribution remains in `assets/CREDITS.md`.

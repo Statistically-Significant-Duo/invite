@@ -1,5 +1,15 @@
 # Image credits
 
+## Current page artwork
+
+The current invitation uses the existing project Pattachitra-inspired illustrations and monogram. The responsive `monogram-*`, `hero-*`, `couple-*`, `bride-*`, `groom-*`, `blessings-*`, `haldi-*`, and `wedding-*` WebP files are compressed variants of those local originals, not newly generated scenes. The matching ceremony illustrations are also used in the gallery and remain clearly labelled as illustrations.
+
+The original artwork files are retained. See `PHOTO_GUIDE.md` in the website folder for the complete source-to-variant mapping.
+
+## Archived photographic alternatives
+
+The photographs credited below are retained in the folder, but are no longer referenced by the page.
+
 The garden, flowers, and table photographs are editorial atmosphere images, not photographs of Pabitra and Asmita's actual wedding or confirmed venue. Replace them with your own photographs whenever available.
 
 | Local file | Photographer and source | Use |
