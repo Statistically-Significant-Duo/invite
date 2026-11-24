@@ -27,7 +27,7 @@
     events: Object.freeze([
       Object.freeze({
         id: "blessings", day: "24", date: "2027-01-24", name: "Blessings & beginnings",
-        shortName: "Blessings", filterName: "Nirbandha", tradition: "NIRBANDHA · MANGALACHARAN",
+        shortName: "Blessings", filterName: "Ashirvad", tradition: "ASHIRVAD · MANGALACHARAN",
         description: "We begin with the blessings of our families, sacred rituals, and the warmth of being together.",
         time: "", venue: ""
       }),

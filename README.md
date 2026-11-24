@@ -16,7 +16,7 @@ Opening `index.html` directly or using a static server also works. On those vers
 
 ## Publish updates without stale assets
 
-The local stylesheet, JavaScript, favicon, and hero preload URLs in `index.html` include a release query string (`?v=20261124-1`). When publishing a change to these files, update the version in all of those URLs to a new value (for example, the release date plus a sequence number). Browsers then request the new asset URLs instead of reusing cached copies. If you replace other images, use the same version on their URLs too. This does not publish the site; commit/push the changed files to the GitHub Pages source as usual.
+The local stylesheet, JavaScript, favicon, and hero preload URLs in `index.html` include a release query string (`?v=20261124-2`). When publishing a change to these files, update the version in all of those URLs to a new value (for example, the release date plus a sequence number). Browsers then request the new asset URLs instead of reusing cached copies. If you replace other images, use the same version on their URLs too. This does not publish the site; commit/push the changed files to the GitHub Pages source as usual.
 
 ## Personalise the invitation
 
