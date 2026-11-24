@@ -394,7 +394,7 @@
   async function checkDelivery() {
     if (!/^https?:$/.test(window.location.protocol)) { updateDeliveryCopy(); return; }
     try {
-      const endpoint = new URL(config.rsvpEndpoint || '/api/rsvp', window.location.href);
+      const endpoint = new URL(config.rsvpEndpoint || './api/rsvp', window.location.href);
       if (!/^https?:$/.test(endpoint.protocol)) throw new Error('Unsupported reply endpoint.');
       const statusUrl = config.rsvpStatusEndpoint
         ? new URL(config.rsvpStatusEndpoint, window.location.href)

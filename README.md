@@ -14,6 +14,10 @@ Visit **http://127.0.0.1:3003**. The server serves the invitation and records RS
 
 Opening `index.html` directly or using a static server also works. On those versions the form offers an email reply, because there is no RSVP storage service. A guest must send that email; the site never presents an email draft as a received RSVP.
 
+## Publish updates without stale assets
+
+The local stylesheet, JavaScript, favicon, and hero preload URLs in `index.html` include a release query string (`?v=20261124-1`). When publishing a change to these files, update the version in all of those URLs to a new value (for example, the release date plus a sequence number). Browsers then request the new asset URLs instead of reusing cached copies. If you replace other images, use the same version on their URLs too. This does not publish the site; commit/push the changed files to the GitHub Pages source as usual.
+
 ## Personalise the invitation
 
 Edit **`js/config.js`** for names, dates, the countdown, event copy, RSVP deadline, location, contact information, and social links. These values populate the page, calendar downloads, and reply labels. HTML contains readable fallback content for JavaScript-disabled browsers; update those fallback values if you change core wedding details.
