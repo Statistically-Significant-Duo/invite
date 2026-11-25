@@ -20,7 +20,6 @@
     // An external endpoint must support the documented wedding-rsvp-v1 protocol.
     rsvpEndpoint: "",
     rsvpStatusEndpoint: "",
-    whatsappCommunity: "https://chat.whatsapp.com/E0GXi3MzmeOLgxEFNqdHP4",
     instagram: "https://www.instagram.com/statistically_significant_duo?vrfl=MWcwcWhiazB4eWU1MA==",
     youtube: "https://www.youtube.com/@PabismitaStatisticallysign-p5b",
     draftStorageKey: "pabitra-asmita-website3-rsvp",

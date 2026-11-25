@@ -213,7 +213,6 @@
     if (url) { link.href = url; link.target = '_blank'; link.rel = 'noopener noreferrer'; }
   });
   const socialLinks = {
-    whatsapp: config.whatsappCommunity,
     instagram: config.instagram,
     youtube: config.youtube
   };

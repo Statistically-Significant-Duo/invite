@@ -16,7 +16,7 @@ Opening `index.html` directly or using a static server also works. On those vers
 
 ## Publish updates without stale assets
 
-The local stylesheet, JavaScript, favicon, and hero preload URLs in `index.html` include a release query string (`?v=20261125-1`). When publishing a change to these files, update the version in all of those URLs to a new value (for example, the release date plus a sequence number). Browsers then request the new asset URLs instead of reusing cached copies. If you replace other images, use the same version on their URLs too. This does not publish the site; commit/push the changed files to the GitHub Pages source as usual.
+The local stylesheet, JavaScript, favicon, and hero preload URLs in `index.html` include a release query string (`?v=20261125-2`). When publishing a change to these files, update the version in all of those URLs to a new value (for example, the release date plus a sequence number). Browsers then request the new asset URLs instead of reusing cached copies. If you replace other images, use the same version on their URLs too. This does not publish the site; commit/push the changed files to the GitHub Pages source as usual.
 
 ## Personalise the invitation
 
@@ -25,7 +25,7 @@ Edit **`js/config.js`** for names, dates, the countdown, event copy, RSVP deadli
 - `venue.name`, `venue.address`, `venue.mapUrl`: add all three once confirmed. The directions button then appears. No venue or address has been invented.
 - `contactEmail`: the family enquiry address and email RSVP destination.
 - `contactPhone`: optional family phone number; its call button stays hidden until set.
-- `whatsappCommunity`, `instagram`, `youtube`: the supplied links are connected. Empty or invalid URLs hide their card; the section hides if no links are available.
+- `instagram`, `youtube`: the supplied links are connected. Empty or invalid URLs hide their card; the section hides if no links are available.
 - `events`: ceremony dates, names, descriptions, and optional times. The wedding uses `weddingDate` for its confirmed time. Earlier timings remain awaiting confirmation.
 
 The single stylesheet **`css/styles.css`** groups component rules and responsive breakpoints. Colours are defined with `--primary`, `--primary-dark`, `--primary-soft`, `--gold`, `--ivory`, and other tokens at its top. Main text and controls are larger, with a mobile form and reduced-motion support.

@@ -30,4 +30,4 @@ The downloaded JPEGs are self-contained local assets; the site does not depend o
 
 ## Brand icons
 
-`whatsapp.svg`, `instagram.svg`, and `youtube.svg` are downloaded from Simple Icons and are used only as recognisable brand marks for the social links section. Brand names and logos remain the property of their respective owners.
+`instagram.svg` and `youtube.svg` are downloaded from Simple Icons and are used only as recognisable brand marks for the social links section. Brand names and logos remain the property of their respective owners.
